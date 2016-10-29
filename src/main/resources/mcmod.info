@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ghoulhack",
+  "name": "GhoulHack",
+  "description": "Hack em forma de Mod para versao 1.7.2 do Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Manike"],
+  "credits": "Creditos aos meus amigos BuGamer e STKain q nao acreditaram q eu daria conta de fazer o hack",
+  "logoFile": "assets/ghoulhack/Logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
